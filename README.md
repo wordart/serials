@@ -1,6 +1,6 @@
 # 连载系列
 
-### :pencil2:《村南炸厕所危机系列》 
+### 《村南炸厕所危机系列》 
 
 - [《村南炸厕所危机》之一](https://github.com/wordart/serials/blob/master/SouthToiletSerials/southtoilet1.md)
 
